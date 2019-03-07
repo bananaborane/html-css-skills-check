@@ -1,0 +1,133 @@
+body {
+    background:white;
+    width: 84vw;
+    height: 100vh;
+    /* border: 3px dashed black; */
+    margin: auto;
+    
+}
+
+.company-container {
+    /* border: darkorange 3px dashed; */
+    height: 5vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: slategray;
+}
+
+.company {
+    margin-left: 2rem;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.menu {
+    display:flex;
+    justify-content: space-between;
+    color: white;
+    font-size: 0.7rem;
+    margin-right: 1rem;
+}
+
+.home {
+    margin: 0 1.2rem;
+}
+.about {
+    margin: 0 1.2rem;
+}
+.contact {
+    margin: 0 1rem;
+}
+
+.header-container {
+    height: 26vh;
+    /* border: darkorange 3px dashed; */
+    background: black;
+    display: flex;
+    justify-content: center;
+}
+
+.the-more {
+    color: yellowgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.main-container {
+    height: 58vh;
+    /* border: 3px dashed darkorange; */
+    background: white;
+}
+
+.three-squares {
+    /* border: dashed darkorange 3px; */
+    background: white;
+    height: 22vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.square {
+    background: lightgreen;
+    height: 16vh;
+    width: 16vh;
+    border-radius: 0.7rem;
+    margin: 2rem;
+}
+
+.two-rectangles {
+    /* border: darkorange dashed 3px; */
+    height: 18vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.rectangle {
+    background: orange;
+    height: 16vh;
+    width: 33vh;
+}
+
+.caption-and-picture {
+    /* border: darkorange 3px dashed; */
+    height: 18vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.caption {
+    font-size: 0.6rem;
+    width: 26vw;
+}
+
+
+#pic {
+    height: 12vh;
+    width: 20vw;
+    margin-right: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer-container {
+    /* border: dashed 3px darkorange; */
+    height: 10.5vh;
+    background: #003366;
+}
+
+
